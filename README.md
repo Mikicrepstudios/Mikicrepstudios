@@ -6,11 +6,7 @@
 - Mostly coding in **C++** and **JavaScript**
 - Intrested in **linux, discord bots, web development, minecraft modding, open source code**
 
-Mikicrep
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrepstudios&layout=compact)
-
-Mikicrep Studios
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrep-studios&layout=compact)
 
 Currently maintained stuff (important):
 - Random SDL Game
