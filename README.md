@@ -1,6 +1,6 @@
 # About me
 
-![Mikcrep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikicrepstudios&show_icons=true&theme=transparent)
+![Mikcrep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikicrepstudios&show_icons=true&theme=dark)
 
 - You can contact me on discord **@mikicrep**
 - Mostly coding in **C++** and **JavaScript**
