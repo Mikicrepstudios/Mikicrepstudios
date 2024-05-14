@@ -17,6 +17,7 @@ Less maintained stuff:
 - Macman
 - Pyramid
 - Mikicrep-Shell
+- Mikibox
 
 *If something is archived, it is discontinued, will most likely not come back*
 
