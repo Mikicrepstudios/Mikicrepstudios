@@ -8,17 +8,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrepstudios&layout=compact&theme=dark&langs_count=10)
 
-Currently maintained stuff (important):
+Currently focusing on:
 - Random SDL Game
 - MSS
 
-Less maintained stuff:
-- Neofetch
-- Macman
-- Pyramid
-- Mikicrep-Shell
-- Mikibox
-
-*If something is archived, it is discontinued, will most likely not come back*
+*I work on some other stuff too, if something is archived, it is discontinued, will most likely not come back*
 
 I use **arch** btw
