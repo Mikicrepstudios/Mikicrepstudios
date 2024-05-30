@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrepstudios&layout=compact&theme=dark&langs_count=10)
 
 Currently focusing on:
-- Random SDL Game
+- [Random SDL Game](https://github.com/Mikicrepstudios/Random-SDL-Game)
 - MSS
 
 *I work on some other stuff too, if something is archived, it is discontinued, will most likely not come back*
