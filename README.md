@@ -10,7 +10,7 @@
 
 Currently focusing on:
 - [Random SDL Game](https://github.com/Mikicrepstudios/Random-SDL-Game)
-- MSS
+- [MSS](https://github.com/Mikicrep-Studios/mikicrep-studios.github.io)
 
 *I work on some other stuff too, if something is archived, it is discontinued, will most likely not come back*
 
