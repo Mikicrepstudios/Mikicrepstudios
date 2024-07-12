@@ -13,5 +13,6 @@ Currently focusing on:
 - [MSS](https://github.com/Mikicrep-Studios/mikicrep-studios.github.io)
 
 *I work on some other stuff too, if something is archived, it is discontinued, will most likely not come back*
+You can support me by starring my repository
 
 ### I use **arch** btw
