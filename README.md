@@ -1,5 +1,7 @@
 # About me
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikicrepstudios)](https://git.io/streak-stats)
+
 ![Mikcrep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikicrepstudios&show_icons=true&theme=dark)
 
 - You can contact me on discord **@mikicrep**
