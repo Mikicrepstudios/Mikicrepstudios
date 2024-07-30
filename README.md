@@ -1,6 +1,6 @@
 # About me
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikicrepstudios)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikicrepstudios)](https://git.io/streak-stats&theme=dark)
 
 ![Mikcrep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikicrepstudios&show_icons=true&theme=dark)
 
