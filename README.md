@@ -27,6 +27,6 @@ You can find my projects [here](https://miki.macakom.net/projects.html)
 
 You can support me by starring my repository
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikicrepstudios&label=Profile%20views&color=0e75b6&style=flat" alt="Mikicrepstudios" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikicrepstudios&label=Profile%20views&color=0e75b6&style=flat" alt="Mikicrepstudios Profile Views" /> </p>
 
 ### I use **arch** btw
