@@ -25,7 +25,7 @@ You can find my projects [here](https://miki.macakom.net/projects.html)
 
 *I work on some other stuff too, if something is archived, it is discontinued, will most likely not come back*
 
-You can support me by starring my repository, joining my discord server or subscribing to my yt channel
+You can support me by starring my repository, joining my discord server or subscribing to my youtube channel
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikicrepstudios&label=Profile%20views&color=0e75b6&style=flat" alt="Mikicrepstudios Profile Views" /> </p>
 
