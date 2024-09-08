@@ -29,4 +29,8 @@ You can support me by starring my repository, joining my discord server or subsc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikicrepstudios&label=Profile%20views&color=0e75b6&style=flat" alt="Mikicrepstudios Profile Views" /> </p>
 
+Profile views goals:
+- 100 views - 8 September 2024
+- 250 views - ???
+
 ### I use **arch** btw
