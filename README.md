@@ -31,6 +31,6 @@ You can support me by starring my repository, joining my discord server or subsc
 
 Profile views goals:
 - 100 views - 8 September 2024
-- 250 views - Not yet
+- 250 views - ???
 
 ### I use **arch** btw
