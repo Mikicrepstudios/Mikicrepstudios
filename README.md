@@ -23,7 +23,7 @@ Currently focusing on:
 
 You can find my projects [here](https://miki.macakom.net/projects.html)
 
-*I work on some other stuff too, if something is archived, it is discontinued, will most likely not come back*
+*I work on some other stuff too. If something is archived, it is discontinued, will most likely not come back*
 
 You can support me by starring my repository, joining my discord server or subscribing to my youtube channel
 
