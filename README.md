@@ -15,7 +15,7 @@
 - - **minecraft modding**
 - - **open source code**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrepstudios&layout=compact&theme=dark&langs_count=10)
+![Top Programming Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrepstudios&layout=compact&theme=dark&langs_count=10)
 
 Currently focusing on:
 - [Random SDL Game](https://github.com/Mikicrepstudios/Random-SDL-Game)
