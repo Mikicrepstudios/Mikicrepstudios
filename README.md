@@ -1,6 +1,6 @@
 # About me
 
-My site: miki.macakom.net
+My site: [miki.macakom.net](miki.macakom.net)
 
 *Some of my stats*
 
