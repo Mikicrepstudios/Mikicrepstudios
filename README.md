@@ -23,7 +23,7 @@ Currently focusing on:
 - [Random SDL Game](https://github.com/Mikicrepstudios/Random-SDL-Game)
 - [MSS](https://github.com/Mikicrep-Studios/mikicrep-studios.github.io)
 
-You can find my projects [here](https://miki.macakom.net/projects.html)
+You can find all my projects [here](https://miki.macakom.net/projects.html)
 
 *I work on some other stuff too. If something is archived, it is discontinued, will most likely not come back*
 
