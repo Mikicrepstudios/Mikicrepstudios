@@ -20,6 +20,7 @@ My site: [miki.macakom.net](https://miki.macakom.net)
 ![Top Programming Langunages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrepstudios&layout=compact&theme=dark&langs_count=10)
 
 Currently focusing on:
+- Mikicrep Framework
 - [Random SDL Game](https://github.com/Mikicrepstudios/Random-SDL-Game)
 - [MSS](https://github.com/Mikicrep-Studios/mikicrep-studios.github.io)
 
