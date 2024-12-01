@@ -22,7 +22,7 @@ My site: [miki.macakom.net](https://miki.macakom.net)
 Currently focusing on:
 - [Mikicrep Framework](https://github.com/Mikicrepstudios/Mikicrep-Framework)
 - [Random SDL Game](https://github.com/Mikicrepstudios/Random-SDL-Game)
-- [MSS](https://github.com/Mikicrep-Studios/mikicrep-studios.github.io)
+- [Mikicrep Studios Site](https://github.com/Mikicrep-Studios/mikicrep-studios.github.io)
 
 You can find all my projects [here](https://miki.macakom.net/projects.html)
 
