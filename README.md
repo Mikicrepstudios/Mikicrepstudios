@@ -1,5 +1,7 @@
 # About me
 
+Last updated: 4.1.2024.
+
 My site: [miki.macakom.net](https://miki.macakom.net)
 
 *Some of my stats*
