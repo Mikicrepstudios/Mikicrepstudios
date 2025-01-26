@@ -38,5 +38,6 @@ Profile views goals:
 - 100 views - 8 September 2024
 - 250 views - 30 October 2024
 - 500 views - 25 January 2025
+- 1000 views - ???
 
 ### I use **arch** btw
