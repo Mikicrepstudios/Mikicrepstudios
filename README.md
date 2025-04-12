@@ -1,6 +1,6 @@
 # About me
 
-Last updated: 5.4.2025.
+Last updated: 12.4.2025.
 
 My site: [miki.macakom.net](https://miki.macakom.net)
 
