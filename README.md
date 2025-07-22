@@ -1,6 +1,6 @@
 # About me
 
-Last updated: 4.5.2025.
+Last updated: 22.7.2025.
 
 My site: [miki.macakom.net](https://miki.macakom.net)
 
@@ -18,6 +18,7 @@ My site: [miki.macakom.net](https://miki.macakom.net)
 - - **web development**
 - - **minecraft modding**
 - - **open source code**
+- - **redstone**
 
 ![Top Programming Langunages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikicrepstudios&layout=compact&theme=dark&langs_count=10)
 
